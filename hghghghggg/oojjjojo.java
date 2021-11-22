@@ -8,7 +8,20 @@ public class oojjjojo {
 		
 		
 	//llkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-
+		
+		/*98
+		98
+		8
+		777
+		77
+		7
+		7
+		7
+		77
+		7
+		7
+		7
+*/
 	}
 
 }
